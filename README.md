@@ -71,13 +71,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 * Adding MongoDB to a NestJS GraphQL Server - https://youtu.be/xnyULqzQ-Rk
 * Username & password authentication - https://youtu.be/PXwnT25SZro
 
-## Support
-[Buy me a Coffee](https://www.buymeacoffee.com/tomn)
-
-[Sign up to DigitalOcean](https://m.do.co/c/1b74cb8c56f4) I 💖 DigitalOcean
-
-[Subscribe on YouTube](https://www.youtube.com/channel/UClEEzwG7Tl3-8eY11Qytsog)
-
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
